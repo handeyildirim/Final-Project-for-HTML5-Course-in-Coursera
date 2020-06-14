@@ -1,6 +1,8 @@
 # Final-Project-for-HTML5-Course-in-Coursera
 My Final Project for HTML5 Course in Coursera
 
+Here is my assignment's link : https://handeyildirim.github.io/Final-Project-for-HTML5-Course-in-Coursera/finalproject.html
+
 Grading Checklist
   doctype
   head
